@@ -8,7 +8,6 @@ import {
   signInWithGooglePopup,
 } from "../../utils/firebase/firebase.utils";
 
-import "./sign-in-form.styles.jsx";
 import { ButtonsContainer, SignInContainer } from "./sign-in-form.styles.jsx";
 
 const defaultFormFields = {
